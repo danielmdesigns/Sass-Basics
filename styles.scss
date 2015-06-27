@@ -1,0 +1,14 @@
+/* Scss Document */
+$hovergreen: lightgreen;
+$red:red;
+
+p {
+	color:$red;
+	a {
+		color: orange;
+		&:hover{
+		color:$hovergreen;
+	}
+	}
+}
+

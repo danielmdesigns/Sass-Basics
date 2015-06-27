@@ -1,0 +1,13 @@
+/* Scss Document */
+/* line 5, styles.scss */
+p {
+  color: red;
+}
+/* line 7, styles.scss */
+p a {
+  color: orange;
+}
+/* line 9, styles.scss */
+p a:hover {
+  color: lightgreen;
+}
