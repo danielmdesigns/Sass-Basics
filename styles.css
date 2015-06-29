@@ -11,3 +11,14 @@ p a {
 p a:hover {
   color: lightgreen;
 }
+
+/* line 15, styles.scss */
+button {
+  background: lightgreen;
+  border: none;
+  padding: 15px;
+}
+/* line 19, styles.scss */
+button:hover {
+  background: red;
+}

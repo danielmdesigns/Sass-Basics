@@ -12,3 +12,12 @@ p {
 	}
 }
 
+button {
+	background:$hovergreen;
+	border:none;
+	padding:15px;
+	&:hover {
+		background:$red;
+	}
+}
+
